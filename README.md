@@ -1,0 +1,3 @@
+
+### Dependencias
+* pip install lona
